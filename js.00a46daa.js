@@ -53683,35 +53683,35 @@ var lastPosition = {
   rz: null
 };
 var detailsImage = [{
-  url: "https://www.youtube.com/watch?v=Ek0laTSTqGE&t=16s",
-  name: "Unleash Your Potential: Embracing Your Authentic Self to Achieve Success speech Yverdon"
-}, {
-  url: "https://www.youtube.com/watch?v=VsRoHiBk76k&t=45s",
-  name: "Elevate your Life: How to Attain the Pinnacle of Success Motivational speech Snoop dogg & Will smith"
-}, {
-  url: "https://www.youtube.com/watch?v=k0-HDVVz5GE&t=11s",
-  name: "Hustle Harder: DJ Khaled's Ultimate Motivation for Success"
-}, {
-  url: "https://youtu.be/AqVjrHwuUc4?si=zrNML6uNSqYpwgn9",
-  name: "Yverdon The Model instagram: @yverninja"
-}, {
-  url: "https://www.youtube.com/watch?v=cekgdxidTEI",
-  name: "Bohemian Rhapsody!"
-}, {
-  url: "https://www.youtube.com/shorts/mJbLoxAJps0",
-  name: "looking for a modeling agency in uk"
-}, {
-  url: "https://www.youtube.com/watch?v=KH5I519G_o0&t=10s",
-  name: "More knowledge"
-}, {
-  url: "https://www.youtube.com/watch?v=u4dltmaymjo",
-  name: "Follow my artist account on instagram: @yverdonyverdon"
-}, {
-  url: "https://www.youtube.com/watch?v=ENhWrIreg6s",
-  name: "Send me your love"
-}, {
   url: "https://www.youtube.com/watch?v=bMpXPIWAtTw&t=5668s",
-  name: "Good movie"
+    name: "Good movie"
+  }, {
+    url: "https://www.youtube.com/watch?v=ENhWrIreg6s",
+    name: "Send me your love"
+  }, {
+    url: "https://www.youtube.com/watch?v=u4dltmaymjo",
+    name: "Follow my artist account on Instagram: @yverdonyverdon"
+  }, {
+    url: "https://www.youtube.com/watch?v=KH5I519G_o0&t=10s",
+    name: "More knowledge"
+  }, {
+    url: "https://www.youtube.com/shorts/mJbLoxAJps0",
+    name: "Looking for a modeling agency in the UK"
+  }, {
+    url: "https://www.youtube.com/watch?v=cekgdxidTEI",
+    name: "Bohemian Rhapsody!"
+  }, {
+    url: "https://youtu.be/AqVjrHwuUc4?si=zrNML6uNSqYpwgn9",
+    name: "Yverdon The Model Instagram: @yverninja"
+  }, {
+    url: "https://www.youtube.com/watch?v=k0-HDVVz5GE&t=11s",
+    name: "Hustle Harder: DJ Khaled's Ultimate Motivation for Success"
+  }, {
+    url: "https://www.youtube.com/watch?v=VsRoHiBk76k&t=45s",
+    name: "Elevate your Life: How to Attain the Pinnacle of Success Motivational speech Snoop Dogg & Will Smith"
+  }, {
+    url: "https://www.youtube.com/watch?v=Ek0laTSTqGE&t=16s",
+    name: "Unleash Your Potential: Embracing Your Authentic Self to Achieve Success speech Yverdon"
 }]; //-------------------------------------------------------------------------------------------------------------------
 // Base
 //-------------------------------------------------------------------------------------------------------------------
