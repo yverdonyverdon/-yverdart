@@ -53683,35 +53683,35 @@ var lastPosition = {
   rz: null
 };
 var detailsImage = [{
-  url: "https://www.youtube.com/watch?v=87MPqPynrXc",
-  name: "Transformation Yverdon\n - Anakin devient Yverdon"
+  url: "https://www.youtube.com/watch?v=Ek0laTSTqGE&t=16s",
+  name: "Unleash Your Potential: Embracing Your Authentic Self to Achieve Success speech Yverdon"
 }, {
-  url: "https://www.youtube.com/watch?v=FX8rsh83bGk",
-  name: "Arrivée Yverdon\n Étoile de la Mort"
+  url: "https://www.youtube.com/watch?v=VsRoHiBk76k&t=45s",
+  name: "Elevate your Life: How to Attain the Pinnacle of Success Motivational speech Snoop dogg & Will smith"
 }, {
-  url: "https://www.youtube.com/watch?v=wxL8bVJhXCM",
-  name: "Darth Vader's rage"
+  url: "https://www.youtube.com/watch?v=k0-HDVVz5GE&t=11s",
+  name: "Hustle Harder: DJ Khaled's Ultimate Motivation for Success"
 }, {
-  url: "https://www.youtube.com/watch?v=Ey68aMOV9gc",
-  name: "VADER EPISODE 1: SHARDS\n OF THE PAST"
+  url: "https://youtu.be/AqVjrHwuUc4?si=zrNML6uNSqYpwgn9",
+  name: "Yverdon The Model instagram: @yverninja"
 }, {
-  url: "https://www.youtube.com/watch?v=3vZsVKD8BQg",
-  name: "Je suis ton père!"
+  url: "https://www.youtube.com/watch?v=cekgdxidTEI",
+  name: "Bohemian Rhapsody!"
 }, {
-  url: "https://www.youtube.com/watch?v=7Zp66FhjlPU",
-  name: "Darth Vader Goes Shopping"
+  url: "https://www.youtube.com/shorts/mJbLoxAJps0",
+  name: "looking for a modeling agency in uk"
 }, {
-  url: "https://www.youtube.com/watch?v=68vPtAE3cZE",
-  name: "Votre manque de foi\n me consterne"
+  url: "https://www.youtube.com/watch?v=KH5I519G_o0&t=10s",
+  name: "More knowledge"
 }, {
-  url: "https://www.youtube.com/watch?v=kocd_C2M9RU",
-  name: "LA SOUFFRANCE MÈNE\n AU CÔTÉ OBSCUR"
+  url: "https://www.youtube.com/watch?v=u4dltmaymjo",
+  name: "Follow my artist account on instagram: @yverdonyverdon"
 }, {
-  url: "https://www.youtube.com/watch?v=k21ONzrwVLY",
-  name: "Lord Vader: A Star\n Wars Story"
+  url: "https://www.youtube.com/watch?v=ENhWrIreg6s",
+  name: "Send me your love"
 }, {
-  url: "https://www.youtube.com/watch?v=JucYYmeh_QY",
-  name: 'Yverdon "Hommage"'
+  url: "https://www.youtube.com/watch?v=bMpXPIWAtTw&t=5668s",
+  name: "Good movie"
 }]; //-------------------------------------------------------------------------------------------------------------------
 // Base
 //-------------------------------------------------------------------------------------------------------------------
